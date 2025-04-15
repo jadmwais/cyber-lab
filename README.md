@@ -43,8 +43,4 @@ Built to strengthen my skills in **cybersecurity**, **networking**, and **digita
 
 ---
 
-## 📫 Contact
 
-**Author:** Jad Mwais  
-**Email:** jadabu123@gmail.com  
-**GitHub:** [@jadmwais](https://github.com/jadmwais)
