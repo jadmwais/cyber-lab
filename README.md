@@ -7,13 +7,15 @@ Built to strengthen my skills in **cybersecurity**, **networking**, and **digita
 
 ## 📁 Project List
 
-| Project                   | Language     | Description                                           |
-|---------------------------|--------------|-------------------------------------------------------|
-| Port Scanner              | Python / C++ | Scan for open ports on a target IP                    |
-| Password Strength Checker | Python       | Analyze password security (length, entropy)           |
-| Hash Tool                 | Python / C++ | Generate MD5, SHA256 hashes of input                  |
-| Hash Cracker              | Python       | Crack SHA-256 or MD5 hashes using a dictionary attack |
-| Secure Login Simulation   | C++          | Simulate login with hashed credentials                |
+| Project                   | Language     | Description                                                |
+|---------------------------|--------------|------------------------------------------------------------|
+| Port Scanner              | Python / C++ | Scan for open ports on a target IP                         |
+| Password Strength Checker | Python       | Analyze password security (length, entropy)                |
+| Hash Tool                 | Python / C++ | Generate MD5, SHA256 hashes of input                       |
+| Hash Cracker              | Python       | Crack SHA-256 or MD5 hashes using a dictionary attack      |
+| Secure Login Simulation   | C++          | Simulate login with hashed credentials                     |
+| Brute Force Simulator     | Python       | Simulate brute-force password cracking using full charset  |
+
 
 
 ---
